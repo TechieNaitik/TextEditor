@@ -211,9 +211,9 @@ void textEditor() {
 void programEnd() {
     system("cls");
     SetColor(1);
-    printf("Project Made By: Naitik Shah (122032130501081)\n");
-    printf("                 Nandish Shah (12202130501083)\n");
-    printf("                 Shivansh Srivastava (12202130501084)\n");
+    printf("Project Made By: Naitik Shah\n");
+    printf("                 Nandish Shah\n");
+    printf("                 Shivansh Srivastava\n");
     printf("Project Guided By: Prof. Maulika Patel (HOD)\n");
     exit(1);
 }
